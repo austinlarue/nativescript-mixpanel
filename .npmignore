@@ -11,4 +11,5 @@ node_modules/
 *.tgz
 *.gz
 *.ts
+!index.d.ts
 *.zip
